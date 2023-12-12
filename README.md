@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working in **Capgemini**
 
+- 🌱 I have experiance on **Java, Spring Boot, ReactJs, SQL**
+
 - 📫 How to reach me **saish.chore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saishchore&show_icons=true&locale=en&layout=compact" alt="saishchore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saishchore&show_icons=true&locale=en" alt="saishchore" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saishchore&" alt="saishchore" /></p>
